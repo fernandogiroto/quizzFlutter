@@ -1,4 +1,4 @@
-# xylophone
+# QuizzFlutter
 
 A new Flutter project.
 
